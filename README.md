@@ -10,12 +10,16 @@ Music Library:
 Displays song title, artist, album, year, genre, and editable comments.
 Drag-and-drop songs to the library for automatic database updates.
 Right-click context menu for adding or deleting songs.
+
+
 ***🗂️ Playlist Management***
 Create and name playlists through a user-friendly interface.
 Add songs to playlists via:
 Context menu options.
 Drag-and-drop (from the library or external files).
 View playlists in separate windows with their own controls.
+
+
 ***📊 Advanced Features***
 Customizable View:
 Show/hide song attributes like album, artist, year, etc., using a right-click on column headers.
@@ -24,6 +28,8 @@ Timers and Progress Bar:
 Track elapsed and remaining time for songs.
 Recent Play History:
 View and access up to 10 recently played songs.
+
+
 ***🔄 Additional Functionalities***
 Shuffle and Repeat modes for seamless playback.
 Keyboard shortcuts for quick access to playback controls.
